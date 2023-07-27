@@ -95,6 +95,7 @@ While users can execute different flows and see their results, the admin is resp
 
 #### Chat
 The chat is available in the flows execution or executions history screens.
+![Chat interface](https://github.com/IgalKa/Stepper/blob/master/gifs/Chat-interface.gif)
 
 
 
